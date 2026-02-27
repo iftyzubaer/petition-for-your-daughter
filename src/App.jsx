@@ -749,7 +749,7 @@ export default function App() {
           </p>
           {[
             ["Ritasha",                             "Character witness. Has seen worse.",                   "Available weekdays"],
-            ["Mati",                                "Can confirm Candidate does his share of the work.",    "Begrudgingly available"],
+            ["Maati",                               "Can confirm Candidate does his share of the work.",    "Begrudgingly available"],
             ["Jarif",                               "Non-verbal. Welcoming.",                               "Always available"],
           ].map(([name, note, avail]) => (
             <div key={name} style={{
